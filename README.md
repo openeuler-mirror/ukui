@@ -27,7 +27,7 @@ UKUI 桌面环境主要使用Qt语言开发，现已默认使用在麒麟软件�
 
 #### FAQ
 
-1.  xxxx
+1.  [安装系统时未创建系统管理员用户怎么办？](https://gitee.com/openeuler/ukui/issues/I5Q8K9?from=project-issue)
 2.  xxxx
 3.  xxxx
 
