@@ -30,6 +30,12 @@ UKUI 桌面环境主要使用Qt语言开发，现已默认使用在麒麟软件�
 [点击进入安装文档](https://gitee.com/openeuler/docs/blob/stable2-22.03_LTS_SP1/docs/zh/docs/desktop/%E5%AE%89%E8%A3%85UKUI.md)
 ##### openEuler 22.03 SP2
 [点击进入安装文档](https://gitee.com/openeuler/docs/blob/stable2-22.03_LTS_SP2/docs/zh/docs/desktop/%E5%AE%89%E8%A3%85UKUI.md)
+##### openEuler 23.09
+[点击进入安装文档](https://gitee.com/openeuler/docs/blob/stable2-23.09/docs/zh/docs/desktop/%E5%AE%89%E8%A3%85UKUI.md)
+##### openEuler 20.03 SP4
+[点击进入安装文档](https://gitee.com/openeuler/docs/blob/stable2-20.03_LTS_SP4/docs/zh/docs/desktop/%E5%AE%89%E8%A3%85UKUI.md)
+##### openEuler 22.03 SP3
+[点击进入安装文档](https://gitee.com/openeuler/docs/blob/stable2-22.03_LTS_SP3/docs/zh/docs/desktop/%E5%AE%89%E8%A3%85UKUI.md)
 #### FAQ
 
 1.  [安装系统时未创建系统管理员用户怎么办？](https://gitee.com/openeuler/ukui/issues/I5Q8K9?from=project-issue)
