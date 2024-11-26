@@ -18,19 +18,19 @@ Currently, UKUI is available in the following versions:
 
 ##### openEuler 20.03 SP1
 
-[Click to go to the installation documentation](https://gitee.com/openeuler/docs/blob/stable2-20.03_LTS_SP1/docs/zh/docs/desktop/%E5%AE%89%E8%A3%85UKUI.md)
+[Click to go to the installation documentation](https://gitee.com/openeuler/docs/blob/stable2-20.03_LTS_SP1/docs/en/docs/desktop/installing-UKUI.md)
 
 ##### openEuler 21.03
 
-[Click to go to the installation documentation](https://gitee.com/openeuler/docs/blob/stable2-21.03/docs/zh/docs/desktop/%E5%AE%89%E8%A3%85UKUI.md)
+[Click to go to the installation documentation](https://gitee.com/openeuler/docs/blob/stable2-21.03/docs/en/docs/desktop/installing-UKUI.md)
 
 ##### openEuler 20.03 SP2
 
-[Click to go to the installation documentation](https://gitee.com/openeuler/docs/blob/stable2-20.03_LTS_SP2/docs/zh/docs/desktop/%E5%AE%89%E8%A3%85UKUI.md)
+[Click to go to the installation documentation](https://gitee.com/openeuler/docs/blob/stable2-20.03_LTS_SP2/docs/en/docs/desktop/installing-UKUI.md)
 
 ##### openEuler 21.09
 
-[Click to go to the installation documentation](https://gitee.com/openeuler/docs/blob/stable2-21.09/docs/zh/docs/desktop/%E5%AE%89%E8%A3%85UKUI.md)
+[Click to go to the installation documentation](https://gitee.com/openeuler/docs/blob/stable2-21.09/docs/en/docs/desktop/installing-UKUI.md)
 
 ##### openEuler 20.03 SP3
 
@@ -38,23 +38,23 @@ Currently, UKUI is available in the following versions:
 
 ##### openEuler 22.03
 
-[Click to go to the installation documentation](https://gitee.com/openeuler/docs/blob/stable2-22.03_LTS/docs/zh/docs/desktop/%E5%AE%89%E8%A3%85UKUI.md)
+[Click to go to the installation documentation](https://gitee.com/openeuler/docs/blob/stable2-22.03_LTS/docs/en/docs/desktop/installing-UKUI.md)
 
 ##### openEuler 22.09
 
-[Click to go to the installation documentation](https://gitee.com/openeuler/docs/blob/stable2-22.09/docs/zh/docs/desktop/%E5%AE%89%E8%A3%85UKUI.md)
+[Click to go to the installation documentation](https://gitee.com/openeuler/docs/blob/stable2-22.09/docs/en/docs/desktop/installing-UKUI.md)
 
 ##### openEuler 22.03 SP1
 
-[Click to go to the installation documentation](https://gitee.com/openeuler/docs/blob/stable2-22.03_LTS_SP1/docs/zh/docs/desktop/%E5%AE%89%E8%A3%85UKUI.md)
+[Click to go to the installation documentation](https://gitee.com/openeuler/docs/blob/stable2-22.03_LTS_SP1/docs/en/docs/desktop/installing-UKUI.md)
 
 ##### openEuler 22.03 SP2
 
-[Click to go to the installation documentation](https://gitee.com/openeuler/docs/blob/stable2-22.03_LTS_SP2/docs/zh/docs/desktop/%E5%AE%89%E8%A3%85UKUI.md)
+[Click to go to the installation documentation](https://gitee.com/openeuler/docs/blob/stable2-22.03_LTS_SP2/docs/en/docs/desktop/installing-UKUI.md)
 
 ##### openEuler 23.09
 
-[Click to go to the installation documentation](https://gitee.com/openeuler/docs/blob/stable2-23.09/docs/zh/docs/desktop/%E5%AE%89%E8%A3%85UKUI.md)
+[Click to go to the installation documentation](https://gitee.com/openeuler/docs/blob/stable2-23.09/docs/en/docs/desktop/installing-UKUI.md)
 
 ##### openEuler 20.03 SP4
 
@@ -63,6 +63,18 @@ Currently, UKUI is available in the following versions:
 ##### openEuler 22.03 SP3
 
 [Click to go to the installation documentation](https://gitee.com/openeuler/docs/blob/stable2-22.03_LTS_SP3/docs/zh/docs/desktop/%E5%AE%89%E8%A3%85UKUI.md)
+
+##### openEuler 24.03
+
+[Click to go to the installation documentation](https://gitee.com/openeuler/docs/blob/stable2-24.03_LTS/docs/en/docs/desktop/installing-UKUI.md)
+
+##### openEuler 24.03 SP1
+
+[Click to go to the installation documentation](https://gitee.com/openeuler/docs/blob/stable2-24.03_LTS_SP1/docs/en/docs/desktop/installing-UKUI.md)
+
+##### openEuler 24.09
+
+[Click to go to the installation documentation](https://gitee.com/openeuler/docs/blob/stable2-24.09/docs/en/docs/desktop/installing-UKUI.md)
 
 #### FAQ
 
