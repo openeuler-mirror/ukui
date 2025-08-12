@@ -1,0 +1,8 @@
+label: UKUI User Guide
+isManual: true
+description: Install and use UKUI.
+sections:
+  - label: UKUI Installation
+    href: ./ukui_installation.md
+  - label: UKUI User Guide
+    href: ./ukui_user_guide.md
