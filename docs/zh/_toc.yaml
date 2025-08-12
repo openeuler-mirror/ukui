@@ -1,0 +1,8 @@
+label: UKUI用户指南
+isManual: true
+description: 安装并使用 UKUI 桌面环境
+sections:
+  - label: 安装 UKUI
+    href: ./ukui_installation.md
+  - label: 使用 UKUI
+    href: ./ukui_user_guide.md
